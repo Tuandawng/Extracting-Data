@@ -1,0 +1,220 @@
+--- Processing Summary ---
+Total files found in base directory: 196
+Files skipped initially (hidden/system or pattern mismatch): 101
+Files matching expected pattern (.mat/.tdms) and attempted: 95
+  Processed successfully (with non-empty data): 50
+  Processed (metadata/properties only, no non-empty data): 45
+  Extraction function returned None (critical failure): 0
+--------------------------
+Check: Total files found (196) == Sum of initial parse outcomes (196)
+Check successful.
+Check: Relevant files attempted (95) == Sum of processing outcomes (95)
+Check successful.
+
+--- Danh sách các tệp đã trích xuất ĐẦY ĐỦ DỮ LIỆU ---
+1. acoustic/0Nm_BPFI_03.mat
+2. acoustic/0Nm_BPFI_10.mat
+3. acoustic/0Nm_BPFO_03.mat
+4. acoustic/0Nm_BPFO_10.mat
+5. acoustic/0Nm_Normal.mat
+6. vibration/0Nm_BPFI_03.mat
+7. vibration/0Nm_BPFI_10.mat
+8. vibration/0Nm_BPFI_30.mat
+9. vibration/0Nm_BPFO_03.mat
+10. vibration/0Nm_BPFO_10.mat
+11. vibration/0Nm_BPFO_30.mat
+12. vibration/0Nm_Misalign_01.mat
+13. vibration/0Nm_Misalign_03.mat
+14. vibration/0Nm_Misalign_05.mat
+15. vibration/0Nm_Normal.mat
+16. vibration/0Nm_Unbalance_0583mg.mat
+17. vibration/0Nm_Unbalance_1169mg.mat
+18. vibration/0Nm_Unbalance_1751mg.mat
+19. vibration/0Nm_Unbalance_2239mg.mat
+20. vibration/0Nm_Unbalance_3318mg.mat
+21. vibration/2Nm_BPFI_03.mat
+22. vibration/2Nm_BPFI_10.mat
+23. vibration/2Nm_BPFI_30.mat
+24. vibration/2Nm_BPFO_03.mat
+25. vibration/2Nm_BPFO_10.mat
+26. vibration/2Nm_BPFO_30.mat
+27. vibration/2Nm_Misalign_01.mat
+28. vibration/2Nm_Misalign_03.mat
+29. vibration/2Nm_Misalign_05.mat
+30. vibration/2Nm_Normal.mat
+31. vibration/2Nm_Unbalalnce_0583mg.mat
+32. vibration/2Nm_Unbalalnce_1169mg.mat
+33. vibration/2Nm_Unbalalnce_1751mg.mat
+34. vibration/2Nm_Unbalalnce_2239mg.mat
+35. vibration/2Nm_Unbalalnce_3318mg.mat
+36. vibration/4Nm_BPFI_03.mat
+37. vibration/4Nm_BPFI_10.mat
+38. vibration/4Nm_BPFI_30.mat
+39. vibration/4Nm_BPFO_03.mat
+40. vibration/4Nm_BPFO_10.mat
+41. vibration/4Nm_BPFO_30.mat
+42. vibration/4Nm_Misalign_01.mat
+43. vibration/4Nm_Misalign_03.mat
+44. vibration/4Nm_Misalign_05.mat
+45. vibration/4Nm_Normal.mat
+46. vibration/4Nm_Unbalance_0583mg.mat
+47. vibration/4Nm_Unbalance_1169mg.mat
+48. vibration/4Nm_Unbalance_1751mg.mat
+49. vibration/4Nm_Unbalance_2239mg.mat
+50. vibration/4Nm_Unbalance_3318mg.mat
+
+--- Danh sách các tệp đã trích xuất CHỈ METADATA/PROPERTIES (Không có dữ liệu tín hiệu non-empty) ---
+1. current,temp/0Nm_BPFI_03.tdms
+2. current,temp/0Nm_BPFI_10.tdms
+3. current,temp/0Nm_BPFI_30.tdms
+4. current,temp/0Nm_BPFO_03.tdms
+5. current,temp/0Nm_BPFO_10.tdms
+6. current,temp/0Nm_BPFO_30.tdms
+7. current,temp/0Nm_Misalign_01.tdms
+8. current,temp/0Nm_Misalign_03.tdms
+9. current,temp/0Nm_Misalign_05.tdms
+10. current,temp/0Nm_Normal.tdms
+11. current,temp/0Nm_Unbalance_0583mg.tdms
+12. current,temp/0Nm_Unbalance_1169mg.tdms
+13. current,temp/0Nm_Unbalance_1751mg.tdms
+14. current,temp/0Nm_Unbalance_2239mg.tdms
+15. current,temp/0Nm_Unbalance_3318mg.tdms
+16. current,temp/2Nm_BPFI_03.tdms
+17. current,temp/2Nm_BPFI_10.tdms
+18. current,temp/2Nm_BPFI_30.tdms
+19. current,temp/2Nm_BPFO_03.tdms
+20. current,temp/2Nm_BPFO_10.tdms
+21. current,temp/2Nm_BPFO_30.tdms
+22. current,temp/2Nm_Misalign_01.tdms
+23. current,temp/2Nm_Misalign_03.tdms
+24. current,temp/2Nm_Misalign_05.tdms
+25. current,temp/2Nm_Normal.tdms
+26. current,temp/2Nm_Unbalance_0583mg.tdms
+27. current,temp/2Nm_Unbalance_1169mg.tdms
+28. current,temp/2Nm_Unbalance_1751mg.tdms
+29. current,temp/2Nm_Unbalance_2239mg.tdms
+30. current,temp/2Nm_Unbalance_3318mg.tdms
+31. current,temp/4Nm_BPFI_03.tdms
+32. current,temp/4Nm_BPFI_10.tdms
+33. current,temp/4Nm_BPFI_30.tdms
+34. current,temp/4Nm_BPFO_03.tdms
+35. current,temp/4Nm_BPFO_10.tdms
+36. current,temp/4Nm_BPFO_30.tdms
+37. current,temp/4Nm_Misalign_01.tdms
+38. current,temp/4Nm_Misalign_03.tdms
+39. current,temp/4Nm_Misalign_05.tdms
+40. current,temp/4Nm_Normal.tdms
+41. current,temp/4Nm_Unbalance_0583mg.tdms
+42. current,temp/4Nm_Unbalance_1169mg.tdms
+43. current,temp/4Nm_Unbalance_1751mg.tdms
+44. current,temp/4Nm_Unbalance_2239mg.tdms
+45. current,temp/4Nm_Unbalance_3318mg.tdms
+
+--- Danh sách các tệp KHÔNG THỂ XỬ LÝ HOẶC BỊ BỎ QUA BAN ĐẦU ---
+
+--- Files skipped initially (hidden/system or pattern mismatch) ---
+1. acoustic.zip
+2. acoustic.zip:Zone.Identifier
+3. acoustic/0Nm_BPFI_03.mat:Zone.Identifier
+4. acoustic/0Nm_BPFI_10.mat:Zone.Identifier
+5. acoustic/0Nm_BPFO_03.mat:Zone.Identifier
+6. acoustic/0Nm_BPFO_10.mat:Zone.Identifier
+7. acoustic/0Nm_Normal.mat:Zone.Identifier
+8. current,temp.zip
+9. current,temp.zip:Zone.Identifier
+10. current,temp/0Nm_BPFI_03.tdms:Zone.Identifier
+11. current,temp/0Nm_BPFI_10.tdms:Zone.Identifier
+12. current,temp/0Nm_BPFI_30.tdms:Zone.Identifier
+13. current,temp/0Nm_BPFO_03.tdms:Zone.Identifier
+14. current,temp/0Nm_BPFO_10.tdms:Zone.Identifier
+15. current,temp/0Nm_BPFO_30.tdms:Zone.Identifier
+16. current,temp/0Nm_Misalign_01.tdms:Zone.Identifier
+17. current,temp/0Nm_Misalign_03.tdms:Zone.Identifier
+18. current,temp/0Nm_Misalign_05.tdms:Zone.Identifier
+19. current,temp/0Nm_Normal.tdms:Zone.Identifier
+20. current,temp/0Nm_Unbalance_0583mg.tdms:Zone.Identifier
+21. current,temp/0Nm_Unbalance_1169mg.tdms:Zone.Identifier
+22. current,temp/0Nm_Unbalance_1751mg.tdms:Zone.Identifier
+23. current,temp/0Nm_Unbalance_2239mg.tdms:Zone.Identifier
+24. current,temp/0Nm_Unbalance_3318mg.tdms:Zone.Identifier
+25. current,temp/2Nm_BPFI_03.tdms:Zone.Identifier
+26. current,temp/2Nm_BPFI_10.tdms:Zone.Identifier
+27. current,temp/2Nm_BPFI_30.tdms:Zone.Identifier
+28. current,temp/2Nm_BPFO_03.tdms:Zone.Identifier
+29. current,temp/2Nm_BPFO_10.tdms:Zone.Identifier
+30. current,temp/2Nm_BPFO_30.tdms:Zone.Identifier
+31. current,temp/2Nm_Misalign_01.tdms:Zone.Identifier
+32. current,temp/2Nm_Misalign_03.tdms:Zone.Identifier
+33. current,temp/2Nm_Misalign_05.tdms:Zone.Identifier
+34. current,temp/2Nm_Normal.tdms:Zone.Identifier
+35. current,temp/2Nm_Unbalance_0583mg.tdms:Zone.Identifier
+36. current,temp/2Nm_Unbalance_1169mg.tdms:Zone.Identifier
+37. current,temp/2Nm_Unbalance_1751mg.tdms:Zone.Identifier
+38. current,temp/2Nm_Unbalance_2239mg.tdms:Zone.Identifier
+39. current,temp/2Nm_Unbalance_3318mg.tdms:Zone.Identifier
+40. current,temp/4Nm_BPFI_03.tdms:Zone.Identifier
+41. current,temp/4Nm_BPFI_10.tdms:Zone.Identifier
+42. current,temp/4Nm_BPFI_30.tdms:Zone.Identifier
+43. current,temp/4Nm_BPFO_03.tdms:Zone.Identifier
+44. current,temp/4Nm_BPFO_10.tdms:Zone.Identifier
+45. current,temp/4Nm_BPFO_30.tdms:Zone.Identifier
+46. current,temp/4Nm_Misalign_01.tdms:Zone.Identifier
+47. current,temp/4Nm_Misalign_03.tdms:Zone.Identifier
+48. current,temp/4Nm_Misalign_05.tdms:Zone.Identifier
+49. current,temp/4Nm_Normal.tdms:Zone.Identifier
+50. current,temp/4Nm_Unbalance_0583mg.tdms:Zone.Identifier
+51. current,temp/4Nm_Unbalance_1169mg.tdms:Zone.Identifier
+52. current,temp/4Nm_Unbalance_1751mg.tdms:Zone.Identifier
+53. current,temp/4Nm_Unbalance_2239mg.tdms:Zone.Identifier
+54. current,temp/4Nm_Unbalance_3318mg.tdms:Zone.Identifier
+55. vibration.zip
+56. vibration.zip:Zone.Identifier
+57. vibration/0Nm_BPFI_03.mat:Zone.Identifier
+58. vibration/0Nm_BPFI_10.mat:Zone.Identifier
+59. vibration/0Nm_BPFI_30.mat:Zone.Identifier
+60. vibration/0Nm_BPFO_03.mat:Zone.Identifier
+61. vibration/0Nm_BPFO_10.mat:Zone.Identifier
+62. vibration/0Nm_BPFO_30.mat:Zone.Identifier
+63. vibration/0Nm_Misalign_01.mat:Zone.Identifier
+64. vibration/0Nm_Misalign_03.mat:Zone.Identifier
+65. vibration/0Nm_Misalign_05.mat:Zone.Identifier
+66. vibration/0Nm_Normal.mat:Zone.Identifier
+67. vibration/0Nm_Unbalance_0583mg.mat:Zone.Identifier
+68. vibration/0Nm_Unbalance_1169mg.mat:Zone.Identifier
+69. vibration/0Nm_Unbalance_1751mg.mat:Zone.Identifier
+70. vibration/0Nm_Unbalance_2239mg.mat:Zone.Identifier
+71. vibration/0Nm_Unbalance_3318mg.mat:Zone.Identifier
+72. vibration/2Nm_BPFI_03.mat:Zone.Identifier
+73. vibration/2Nm_BPFI_10.mat:Zone.Identifier
+74. vibration/2Nm_BPFI_30.mat:Zone.Identifier
+75. vibration/2Nm_BPFO_03.mat:Zone.Identifier
+76. vibration/2Nm_BPFO_10.mat:Zone.Identifier
+77. vibration/2Nm_BPFO_30.mat:Zone.Identifier
+78. vibration/2Nm_Misalign_01.mat:Zone.Identifier
+79. vibration/2Nm_Misalign_03.mat:Zone.Identifier
+80. vibration/2Nm_Misalign_05.mat:Zone.Identifier
+81. vibration/2Nm_Normal.mat:Zone.Identifier
+82. vibration/2Nm_Unbalalnce_0583mg.mat:Zone.Identifier
+83. vibration/2Nm_Unbalalnce_1169mg.mat:Zone.Identifier
+84. vibration/2Nm_Unbalalnce_1751mg.mat:Zone.Identifier
+85. vibration/2Nm_Unbalalnce_2239mg.mat:Zone.Identifier
+86. vibration/2Nm_Unbalalnce_3318mg.mat:Zone.Identifier
+87. vibration/4Nm_BPFI_03.mat:Zone.Identifier
+88. vibration/4Nm_BPFI_10.mat:Zone.Identifier
+89. vibration/4Nm_BPFI_30.mat:Zone.Identifier
+90. vibration/4Nm_BPFO_03.mat:Zone.Identifier
+91. vibration/4Nm_BPFO_10.mat:Zone.Identifier
+92. vibration/4Nm_BPFO_30.mat:Zone.Identifier
+93. vibration/4Nm_Misalign_01.mat:Zone.Identifier
+94. vibration/4Nm_Misalign_03.mat:Zone.Identifier
+95. vibration/4Nm_Misalign_05.mat:Zone.Identifier
+96. vibration/4Nm_Normal.mat:Zone.Identifier
+97. vibration/4Nm_Unbalance_0583mg.mat:Zone.Identifier
+98. vibration/4Nm_Unbalance_1169mg.mat:Zone.Identifier
+99. vibration/4Nm_Unbalance_1751mg.mat:Zone.Identifier
+100. vibration/4Nm_Unbalance_2239mg.mat:Zone.Identifier
+101. vibration/4Nm_Unbalance_3318mg.mat:Zone.Identifier
+
+Saving extracted data structure to extracted_dataset_structured.h5...
+
+Successfully saved extracted data structure to extracted_dataset_structured.h5
