@@ -1,2 +1,4 @@
 project_dataset/
 *.h5
+extracted_csv_data/
+checkapi.py
